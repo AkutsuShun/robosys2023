@@ -1,24 +1,67 @@
 # robosys2023
 本リポジトリは、千葉工業大学のロボットシステム学の授業の課題のために制作された練習用リポジトリである
 
-# plusコマンド
-[![test](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml)
-
 ## インストール方法
+インストールしたいディレクトリで以下のコードを実行する
 ```
 $ git clone https://github.com/AkutsuShun/robosys2023.git
 ```
 
+
+# plusコマンド
+[![test](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml)
+
+
 ## 機能
-標準入力から読み込んだ自然数を足し合わせて、その結果を表示する
+標準入力から読み込んだ自然数の和を表示する
 
 ## 実行例
 ```
 $ seq 🔲 | ./plus
 ``` 
 🔲の部分に任意の自然数を入力すると、１から入力した自然数までの連続した自然数の和を表示する
+また、下記のようにnumに入れた任意の値を足し合わせることも可能
+```
+$ ./plus < num
+```
+## 実行結果の例
+```
+$ seq 5 | ./plus
+15
+``` 
 
+```
+$ seq 10 > num
+$ ./plus < num
+55
+```
 
+# multiplyコマンド
+[![test](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml)
+
+## 機能
+標準入力から読み込んだ自然数の積を表示する
+
+## 実行例
+```
+$ seq 🔲 | ./multiply
+``` 
+🔲の部分に任意の自然数を入力すると、１から入力した自然数までの連続した自然数の階乗を表示する
+また、下記のようにnumに入れた任意の値を積を求めることも可能
+```
+$ ./multiply < num
+```
+
+## 実行結果の例
+```
+$ seq 5 | ./multiply
+120
+``` 
+```
+$ seq 10 > num
+$ ./multiply < num
+3628800
+```
 
 ## 必用なソフトウェア
 * Python
