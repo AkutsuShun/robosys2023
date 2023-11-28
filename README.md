@@ -19,6 +19,7 @@ $ seq 🔲 | ./plus
 🔲の部分に任意の自然数を入力すると、１から入力した自然数までの連続した自然数の和を表示する
 
 
+
 ## 必用なソフトウェア
 * Python
 * テスト済み: 3.7~3.10
@@ -30,5 +31,5 @@ $ seq 🔲 | ./plus
 # 権利
 * このソフトウェアパッケージは、３条項ＢＳＤライセンスの下、再頒布及び使用が許可されます。
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-* [ryuichiueda/my_slides robosys_2022/lesson3.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022/lesson3.md)
+* [ryuichiueda/my_slides robosys_2022/lesson3.md](https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/)
 * © 2023 Akutsu Shun
