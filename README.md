@@ -74,5 +74,5 @@ $ ./multiply < num
 # 権利
 * このソフトウェアパッケージは、３条項ＢＳＤライセンスの下、再頒布及び使用が許可されます。
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-* [ryuichiueda/my_slides robosys_2022/lesson3.md](https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/)
+* [ryuichiueda/my_slides robosys_2022/lesson4.md](https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/)
 * © 2023 Akutsu Shun
