@@ -1,5 +1,5 @@
-# robosys2023
-[![test](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml)
+# robosys2023　[![test](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/AkutsuShun/robosys2023/actions/workflows/test.yml)
+
 本リポジトリは、千葉工業大学のロボットシステム学の授業における課題のために制作された練習用リポジトリである
 
 ## インストール方法
