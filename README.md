@@ -29,11 +29,15 @@ $ ./plus < num
 $ seq 5 | ./plus
 15
 ``` 
-
+* num
 ```
-$ seq 10 > num
+5
+2
+10
+```
+```
 $ ./plus < num
-55
+17
 ```
 
 # multiplyコマンド
@@ -57,10 +61,15 @@ $ ./multiply < num
 $ seq 5 | ./multiply
 120
 ``` 
+* num
 ```
-$ seq 10 > num
+5
+2
+10
+```
+```
 $ ./multiply < num
-3628800
+100
 ```
 
 ## 必用なソフトウェア
