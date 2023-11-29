@@ -75,7 +75,6 @@ $ ./multiply < num
 * テスト済み: 3.7~3.10
 
 ## テスト環境
-* Windows 11 Home
 * ubuntu 20.04 on windows
 
 # 権利
