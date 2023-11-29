@@ -72,7 +72,7 @@ $ ./multiply < num
 
 ## 必用なソフトウェア
 * Python
-* テスト済み: 3.7~3.10
+  * 3.7~3.10
 
 ## テスト環境
 * ubuntu 20.04 on windows
@@ -82,4 +82,4 @@ $ ./multiply < num
 * このパッケージのコードの一部は，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
   * [ryuichiueda/my_slides robosys_2022/lesson4.md](https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/)
 
-© 2023 Akutsu Shun
+* © 2023 Akutsu Shun
